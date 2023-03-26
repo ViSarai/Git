@@ -1,2 +1,6 @@
 testando att entre github e vccode
 vscode*
+testando
+funcionalidade
+x
+ttt
